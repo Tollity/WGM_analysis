@@ -119,7 +119,6 @@ for k = 1:numel(E)-2
     
 end
 
-%% Getting errors for errorbars
 
 
 %% Splitting the values into 100 motor rpm and 50 motor rpm sets.

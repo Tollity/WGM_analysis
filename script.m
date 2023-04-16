@@ -1,5 +1,5 @@
 clear
-addpath('C:\Users\frank\OneDrive\Bureaublad\BSc assignment\Measurements\22-2 measurements')
+
 %% import csv data from experiments
 d10_50_1 = readtable("10ml-50rpm.csv");
 d10_50_2 = readtable("10ml-50rpm2.csv");

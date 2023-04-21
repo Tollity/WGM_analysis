@@ -13,8 +13,8 @@ Sensor wiring done using
 in combination with
 ![afbeelding](https://user-images.githubusercontent.com/86842299/233705583-2846db87-6482-4d15-a2f8-6ccb201f83d1.png)
 Note pin connections:
-pin 4 RED        V+ <->  E+
-pin 3 YELLOW     O+ <->  A+
-pin 2 WHITE      O- <->  A-
-pin 1 BLACK      V- <->  E-
+pin 4 RED        V+ <->  E+  
+pin 3 YELLOW     O+ <->  A+  
+pin 2 WHITE      O- <->  A-  
+pin 1 BLACK      V- <->  E-  
 

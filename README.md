@@ -16,5 +16,5 @@ Note pin connections:
 pin 4 RED        V+ <->  E+  \
 pin 3 YELLOW     O+ <->  A+  \
 pin 2 WHITE      O- <->  A-  \
-pin 1 BLACK      V- <->  E-  \
+pin 1 BLACK      V- <->  E-  
 

@@ -5,6 +5,7 @@ Emptycylindermeasurements.m is the script used to analyse empty cylinder measure
 
 The calibration factor.ino and measurement.ino scripts are based on files from https://github.com/sparkfun/HX711-Load-Cell-Amplifier adjusted to my needs.
 The measurement script also uses an Arduino Library from https://github.com/bogde/HX711
+Guide: https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all
 
 
 Sensor wiring done using
